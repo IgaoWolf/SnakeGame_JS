@@ -1,7 +1,3 @@
-<!--About session-->
-
-<img src="./assets/badge.png" title="Badge" width="70" height="70">
-
 <h3>👨‍💻 Tecnologias utilizadas</h3>
 
 - [HTML](https://www.w3schools.com/html/)
